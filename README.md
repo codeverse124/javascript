@@ -1,7 +1,5 @@
+![CodeVerse](code1.png)
 
-<p align="center">
-  <img src="/code1.png" alt="CodeVerse" width="160" />
-</p>
 
 > 📜 **Practice 300+ essential JavaScript interview questions** in-browser — no tutorials, no fluff.  
 > 💼 Curated by developers with experience at Big Tech, unicorn startups, and product-first companies.  
