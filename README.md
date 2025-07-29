@@ -1,4 +1,7 @@
-![CodeVerse](/code1.png){width=160 height=160 .rounded-full}
+<div style="text-align: center; margin: 1rem 0;">
+  <img src="/code1.png" alt="CodeVerse" width="160" />
+</div>
+
 
 
 
