@@ -1,4 +1,5 @@
-![CodeVerse](code1.png)
+![CodeVerse](/code1.png){width=160 height=160 .rounded-full}
+
 
 
 > 📜 **Practice 300+ essential JavaScript interview questions** in-browser — no tutorials, no fluff.  
